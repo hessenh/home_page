@@ -1,4 +1,4 @@
 # home_page
 
 
-#Just a simple home page using Meteor JS. 
+##Just a simple home page using Meteor JS. 
